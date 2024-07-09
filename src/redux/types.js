@@ -1,0 +1,11 @@
+export const INCREMENT = "INCREMENT"
+export const DECREMENT = "DECREMENT"
+export const DIVSION = "DIVSION"
+export const MULTIPLY = "MULTIPLY"
+export const STRING = "React App"
+export const STRING2 = "+ 2"
+export const STRING3 = "+ 5"
+export const STRING4 = "+ 10"
+export const STRING5 = "/2"
+export const STRING6 = "x 2"
+
